@@ -1,0 +1,50 @@
+.button
+{
+    
+-fx-background-color : #FFD700;
+-fx-text-fill : #05071F;
+-fx-background-radius : 100;
+}
+.button:hover{
+-fx-background-color : #10165F;
+}
+.button:pressed
+{
+-fx-background-color : #1620A1;
+}
+
+.buttonssss
+{ 
+-fx-background-color : #05071F;
+
+}
+.buttontt
+{ 
+-fx-background-radius : 100;
+
+
+}
+.butt
+{ 
+
+-fx-background-color : #FFD700;
+
+}
+.butxxxx
+{ 
+-fx-background-color : #000000;
+
+}
+.bor
+{ 
+-fx-background-color : #f0e68c;
+
+}
+.buttontt:hover{
+-fx-background-color : #808080;
+}
+.mmmmmm
+{ 
+-fx-background-color : #F0F8FF;
+
+}
